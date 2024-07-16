@@ -1,6 +1,6 @@
 [project]
 name = "banner_nish"
-version = "1.1.1"
+version = "1.1.2"
 description = "Banner Output for Python"
 authors = [
     {name = "NishNovae", email = "raecrowned@gmail.com"},
@@ -19,3 +19,7 @@ nish-lottery = 'banner_nish.banner:lottery'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Homepage = "https://github.com/NishNovae/banner_nish"
+Issues = "https://github.com/NishNovae/banner_nish/issues"
