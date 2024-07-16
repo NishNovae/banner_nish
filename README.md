@@ -13,7 +13,7 @@ Nothing special, but a good practice on publishing python packages.
 
 ## Installation
 ```
-pip install banner-nish
+$ pip install banner-nish
 ```
 That's it. That's all it takes. Just make sure you have the minimum python version to run it, which is `3.9`.
 
