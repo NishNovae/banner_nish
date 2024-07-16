@@ -1,6 +1,7 @@
 # banner_nish
 
 ## Introduction
+Current latest release: v0.3.0 (2024. 07. 16)
 Nothing special, but a good practice on publishing python packages.
 
 ## Installation
