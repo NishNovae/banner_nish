@@ -1,7 +1,7 @@
 [project]
 name = "banner_nish"
 version = "0.2.0"
-description = "Default template for PDM package"
+description = "Banner Output for Python"
 authors = [
     {name = "NishNovae", email = "raecrowned@gmail.com"},
 ]
@@ -12,6 +12,8 @@ requires-python = ">=3.8.*"
 readme = "README.md"
 license = {text = "MIT"}
 
+[project.scripts]
+show-banner = 'banner_nish.banner:show'
 
 [tool.pdm]
 distribution = false
