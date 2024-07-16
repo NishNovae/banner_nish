@@ -1,12 +1,14 @@
 [project]
 name = "banner_nish"
-version = "0.1.0"
+version = "0.2.0"
 description = "Default template for PDM package"
 authors = [
     {name = "NishNovae", email = "raecrowned@gmail.com"},
 ]
-dependencies = []
-requires-python = "==3.11.*"
+dependencies = [
+    "pyfiglet>=1.0.2",
+]
+requires-python = ">=3.8.*"
 readme = "README.md"
 license = {text = "MIT"}
 
