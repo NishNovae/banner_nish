@@ -1,5 +1,14 @@
 # banner_nish
 
+## Introduction
+Nothing special, but a good practice on publishing python packages.
+
+## Installation
+```
+pip install banner-nish
+```
+That's it. That's all it takes. Just make sure you have the minimum python version to run it, which is `3.9`.
+
 ## Usages
 As of `v0.3.0`, `banner_nish` has one functionality that can be executed directly from the command line: the `show-banner` command, which prints out a slanted ASCII-based banner that says my nickname, Nish. This functionality is implemented via its dependency `pyfiglet`.
 
