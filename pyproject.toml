@@ -16,4 +16,4 @@ license = {text = "MIT"}
 show-banner = 'banner_nish.banner:show'
 
 [tool.pdm]
-distribution = false
+distribution = true
