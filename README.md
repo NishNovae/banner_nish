@@ -20,7 +20,7 @@ Make sure you have the minimum python version to run it, which is `3.9`.
 ## Usages
 As of `v1.3.0`, banner_nish has three functionalities which can be executed directly from the command line.
 
-- The `nish-banner` command prints out a slanted ASCII-based banner that says my nickname, Nish. This functionality is implemented via its dependency `pyfiglet`.
+- The `nish-banner` command prints out a slanted ASCII-based banner that says my username, Nish. This functionality is implemented via its dependency `pyfiglet`.
 
 - The `show-pic` command prints out a pre-selected ASCII art image of a tiger.
 
