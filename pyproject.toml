@@ -1,6 +1,6 @@
 [project]
 name = "banner_nish"
-version = "1.1.0"
+version = "1.1.1"
 description = "Banner Output for Python"
 authors = [
     {name = "NishNovae", email = "raecrowned@gmail.com"},
@@ -14,7 +14,7 @@ license = {text = "MIT"}
 
 [project.scripts]
 nish-banner = 'banner_nish.banner:show'
-show-pic = 'banner_nish.banner:pic'
+nish-pic = 'banner_nish.banner:pic'
 nish-lottery = 'banner_nish.banner:lottery'
 
 [tool.pdm]
